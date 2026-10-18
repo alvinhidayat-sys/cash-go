@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.CashGO" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/orange</item>
+        <item name="android:statusBarColor">@color/orange_dark</item>
+        <item name="android:navigationBarColor">@color/plum</item>
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryDark">@color/orange_dark</item>
+        <item name="colorAccent">@color/orange</item>
+    </style>
+</resources>

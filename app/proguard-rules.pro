@@ -1,0 +1,1 @@
+-keepclassmembers class id.cashgo.app.MainActivity$Bridge { @android.webkit.JavascriptInterface <methods>; }
